@@ -1,0 +1,59 @@
+c:\users\rogelio florencia\documents\visual studio 2015\Projects\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.exe.config
+c:\users\rogelio florencia\documents\visual studio 2015\Projects\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.exe
+c:\users\rogelio florencia\documents\visual studio 2015\Projects\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.pdb
+c:\users\rogelio florencia\documents\visual studio 2015\Projects\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.frmLibros.resources
+c:\users\rogelio florencia\documents\visual studio 2015\Projects\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.MDI.resources
+c:\users\rogelio florencia\documents\visual studio 2015\Projects\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.Properties.Resources.resources
+c:\users\rogelio florencia\documents\visual studio 2015\Projects\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.csproj.GenerateResource.Cache
+c:\users\rogelio florencia\documents\visual studio 2015\Projects\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.exe
+c:\users\rogelio florencia\documents\visual studio 2015\Projects\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.pdb
+c:\users\rogelio florencia\documents\visual studio 2015\Projects\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.frmBuscar.resources
+c:\users\rogelio florencia\documents\visual studio 2015\Projects\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.csprojResolveAssemblyReference.cache
+C:\UACJ\Docencia\02 (Ene - Jun 2017)\Bases de Datos II\Prácticas\SQL Server BD II\C#\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.exe.config
+C:\UACJ\Docencia\02 (Ene - Jun 2017)\Bases de Datos II\Prácticas\SQL Server BD II\C#\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.exe
+C:\UACJ\Docencia\02 (Ene - Jun 2017)\Bases de Datos II\Prácticas\SQL Server BD II\C#\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.pdb
+C:\UACJ\Docencia\02 (Ene - Jun 2017)\Bases de Datos II\Prácticas\SQL Server BD II\C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.csprojAssemblyReference.cache
+C:\UACJ\Docencia\02 (Ene - Jun 2017)\Bases de Datos II\Prácticas\SQL Server BD II\C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.frmBuscar.resources
+C:\UACJ\Docencia\02 (Ene - Jun 2017)\Bases de Datos II\Prácticas\SQL Server BD II\C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.frmLibros.resources
+C:\UACJ\Docencia\02 (Ene - Jun 2017)\Bases de Datos II\Prácticas\SQL Server BD II\C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.MDI.resources
+C:\UACJ\Docencia\02 (Ene - Jun 2017)\Bases de Datos II\Prácticas\SQL Server BD II\C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.Properties.Resources.resources
+C:\UACJ\Docencia\02 (Ene - Jun 2017)\Bases de Datos II\Prácticas\SQL Server BD II\C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.csproj.GenerateResource.cache
+C:\UACJ\Docencia\02 (Ene - Jun 2017)\Bases de Datos II\Prácticas\SQL Server BD II\C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.csproj.CoreCompileInputs.cache
+C:\UACJ\Docencia\02 (Ene - Jun 2017)\Bases de Datos II\Prácticas\SQL Server BD II\C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.exe
+C:\UACJ\Docencia\02 (Ene - Jun 2017)\Bases de Datos II\Prácticas\SQL Server BD II\C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.pdb
+C:\UACJ\Docencia\07 (Ago - Dic 2019)\Bases de Datos I\Material\SQL Server - C#\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.exe.config
+C:\UACJ\Docencia\07 (Ago - Dic 2019)\Bases de Datos I\Material\SQL Server - C#\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.exe
+C:\UACJ\Docencia\07 (Ago - Dic 2019)\Bases de Datos I\Material\SQL Server - C#\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.pdb
+C:\UACJ\Docencia\07 (Ago - Dic 2019)\Bases de Datos I\Material\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.csprojAssemblyReference.cache
+C:\UACJ\Docencia\07 (Ago - Dic 2019)\Bases de Datos I\Material\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.frmBuscar.resources
+C:\UACJ\Docencia\07 (Ago - Dic 2019)\Bases de Datos I\Material\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.frmLibros.resources
+C:\UACJ\Docencia\07 (Ago - Dic 2019)\Bases de Datos I\Material\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.MDI.resources
+C:\UACJ\Docencia\07 (Ago - Dic 2019)\Bases de Datos I\Material\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.Properties.Resources.resources
+C:\UACJ\Docencia\07 (Ago - Dic 2019)\Bases de Datos I\Material\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.csproj.GenerateResource.cache
+C:\UACJ\Docencia\07 (Ago - Dic 2019)\Bases de Datos I\Material\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.csproj.CoreCompileInputs.cache
+C:\UACJ\Docencia\07 (Ago - Dic 2019)\Bases de Datos I\Material\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.exe
+C:\UACJ\Docencia\07 (Ago - Dic 2019)\Bases de Datos I\Material\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.pdb
+C:\Users\rober\Desktop\SQL Server - C#\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.exe.config
+C:\Users\rober\Desktop\SQL Server - C#\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.exe
+C:\Users\rober\Desktop\SQL Server - C#\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.pdb
+C:\Users\rober\Desktop\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.frmBuscar.resources
+C:\Users\rober\Desktop\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.frmLibros.resources
+C:\Users\rober\Desktop\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.MDI.resources
+C:\Users\rober\Desktop\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.Properties.Resources.resources
+C:\Users\rober\Desktop\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.exe
+C:\Users\rober\Desktop\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.pdb
+C:\Users\rober\Desktop\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.Form1.resources
+C:\Users\alber\Desktop\Proyecto\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.csprojAssemblyReference.cache
+C:\Users\alber\Desktop\Proyecto\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.Form1.resources
+C:\Users\alber\Desktop\Proyecto\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.frmBuscar.resources
+C:\Users\alber\Desktop\Proyecto\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.frmLibros.resources
+C:\Users\alber\Desktop\Proyecto\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.MDI.resources
+C:\Users\alber\Desktop\Proyecto\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.Properties.Resources.resources
+C:\Users\alber\Desktop\Proyecto\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.csproj.GenerateResource.cache
+C:\Users\alber\Desktop\Proyecto\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.exe
+C:\Users\alber\Desktop\Proyecto\SQL Server - C#\Libro_BD_I\Libro_BD_I\obj\Debug\Libro_BD_I.pdb
+C:\Users\alber\Desktop\Proyecto\SQL Server - C#\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.exe.config
+C:\Users\alber\Desktop\Proyecto\SQL Server - C#\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.exe
+C:\Users\alber\Desktop\Proyecto\SQL Server - C#\Libro_BD_I\Libro_BD_I\bin\Debug\Libro_BD_I.pdb
